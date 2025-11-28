@@ -2,7 +2,7 @@ package via.pro3.controller;
 
 import org.springframework.web.bind.annotation.*;
 import via.pro3.model.Animal;
-import via.pro3.service.AnimalService;
+import via.pro3.repositories.AnimalRepository;
 
 import java.sql.SQLException;
 import java.time.LocalDate;
@@ -12,16 +12,16 @@ import java.util.List;
 @RequestMapping("/animals")
 public class AnimalRegistrationController {
 
-    private final AnimalService animalService;
+    private final AnimalRepository animalRepo;
 
-    public AnimalRegistrationController(AnimalService animalService) {
-        this.animalService = animalService;
+    public AnimalRegistrationController(AnimalRepository animalRepo) {
+        this.animalRepo = animalRepo;
     }
 
     @PostMapping
     public String registerAnimal(@RequestBody Animal animal) {
         try {
-            animalService.registerAnimal(animal);
+            animalRepo.save(animal);
             return "Animal registered successfully.";
         } catch (SQLException e) {
             e.printStackTrace();
@@ -31,16 +31,16 @@ public class AnimalRegistrationController {
 
     @GetMapping("/{registrationNumber}")
     public Animal getAnimal(@PathVariable String registrationNumber) throws SQLException {
-        return animalService.getByRegistrationNumber(registrationNumber);
+        return animalRepo.getByRegistrationNumber(registrationNumber);
     }
 
     @GetMapping("/date/{date}")
     public List<Animal> getAnimalsByDate(@PathVariable String date) throws SQLException {
-        return animalService.getByDate(LocalDate.parse(date));
+        return animalRepo.getByDate(LocalDate.parse(date));
     }
 
     @GetMapping("/origin/{origin}")
     public List<Animal> getAnimalsByOrigin(@PathVariable String origin) throws SQLException {
-        return animalService.getByOrigin(origin);
+        return animalRepo.getByOrigin(origin);
     }
 }
