@@ -5,40 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af025cd-8139-4b0e-93ca-b1d62c6e577f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRO3_Assignment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/.mvn/jvm.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/.mvn/maven.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/ApplicationRestAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/GRPCServerMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/controller/AnimalRegistrationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequestOrBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponseOrBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductRequestOrBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponseOrBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseGrpc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseOuterClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Part.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Tray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/AnimalRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/DBConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/AnimalService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/ClientMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/SlaughterhouseImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/proto/slaughterhouse.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/test/java/via/pro3/repositories/ProductRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/test/java/via/pro3/service/SlaughterhouseImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/via/pro3/repositories/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/via/pro3/repositories/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/via/pro3/repositories/ProductRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/via/pro3/service/SlaughterhouseImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/ApplicationRestAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/controller/AnimalRegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Part.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Tray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/AnimalRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/ProductRepository.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +31,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="367mAf79szieThOmwIFsMjw7ZKx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,30 +42,67 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ApplicationRestAPI.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.ApplicationRestAPI.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/guiga/Desktop/0SoftwareEngineering/25_3rd_Software/PRO3/Assignment02/pom.xml",
+    "last_opened_file_path": "C:/Users/guiga/Desktop/0SoftwareEngineering/25_3rd_Software/PRO3/Assignment03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ApplicationRestAPI">
+    <configuration name="ApplicationRestAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="via.pro3.ApplicationRestAPI" />
+      <module name="Assignment03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="via.pro3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Assignment03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Assignment03" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration name="ApplicationRestAPI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="Assignment02" />
+      <module name="Assignment03" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="via.pro3.ApplicationRestAPI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationRestAPI" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -99,7 +119,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764365841570</updated>
-      <workItem from="1764365842862" duration="826000" />
+      <workItem from="1764365842862" duration="1113000" />
+      <workItem from="1764366972776" duration="12000" />
+      <workItem from="1764367023567" duration="1683000" />
     </task>
     <servers />
   </component>

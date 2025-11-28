@@ -10,10 +10,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>via.pro3</groupId>
-    <artifactId>Assignment02</artifactId>
+    <artifactId>Assignment03</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Assignment02</name>
-    <description>Assignment02</description>
+    <name>Assignment03</name>
+    <description>Assignment03</description>
     <url/>
     <licenses>
         <license/>
