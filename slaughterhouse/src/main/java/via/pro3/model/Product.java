@@ -3,11 +3,11 @@ package via.pro3.model;
 public class Product {
 
     private int productId;
-    private String kind;
+    private String name;
 
-    public  Product(int productId, String kind) {
+    public  Product(int productId, String name) {
 
         this.productId = productId;
-        this.kind = kind;
+        this.name = name;
     }
 }

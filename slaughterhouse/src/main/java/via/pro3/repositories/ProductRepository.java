@@ -8,25 +8,25 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ProductRepository {
-    public List<Integer> getProductsByAnimalId(int animalId) throws SQLException {
 
+    public List<Integer> getProductsByAnimalId(int animalId) throws SQLException {
+        List<Integer> products = new ArrayList<>();
         DBConnection db = new DBConnection();
 
+        String query = "SELECT product_id FROM product_animal_link WHERE animal_id = ?";
+
         try (Connection connection = db.openConnection();
-             PreparedStatement statement = connection.prepareStatement("SELECT fk_product_id FROM product_animal_link WHERE fk_animal_id = ?")) {
+             PreparedStatement statement = connection.prepareStatement(query)) {
 
             statement.setInt(1, animalId);
 
             try (ResultSet rs = statement.executeQuery()) {
-
-                List<Integer> products = new ArrayList<>();
-
                 while (rs.next()) {
-                    products.add(rs.getInt("fk_product_id"));
+                    products.add(rs.getInt("product_id"));
                 }
-                return products;
             }
         }
-    }
 
+        return products;
+    }
 }

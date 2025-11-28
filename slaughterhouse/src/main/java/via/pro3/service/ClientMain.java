@@ -36,10 +36,10 @@ public class ClientMain {
                 System.out.println("No animals found in Product ID " + testProductId);
             }
 
-            //product method:
+            int testAnimalId = 3;
 
             AnimalRequest request2 = AnimalRequest.newBuilder()
-                    .setAnimalId(3)
+                    .setAnimalId(testAnimalId)
                     .build();
 
             ProductsResponse response2 = stub.getProductsByAnimalId(request2);

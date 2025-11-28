@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option java_package = "via.pro3.generated";
+option java_package = "via.pro3.proto";
 option java_multiple_files = true;
 
 service Slaughterhouse{
@@ -24,4 +24,3 @@ message AnimalsResponse {
 message ProductsResponse {
   repeated int32 product_ids = 1;
 }
-

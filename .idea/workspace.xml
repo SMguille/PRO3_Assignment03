@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eac5b280-9444-4be2-8221-54a1d9c9927b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/PRO3_Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/ServerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/GRPCServerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseOuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/repositories/AnimalRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/repositories/AnimalRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/repositories/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/repositories/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/repositories/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/repositories/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/service/ClientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/service/ClientMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/service/SlaughterhouseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/java/via/pro3/service/SlaughterhouseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/proto/slaughterhouse.proto" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/slaughterhouse/src/main/proto/slaughterhouse.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/ServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalRequest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalRequest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalRequest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalRequest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponse$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponse$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponse$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponse$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponseOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/AnimalsResponseOrBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductRequest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductRequest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductRequest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductRequest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponse$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponse$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponse$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponse$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponseOrBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/ProductsResponseOrBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$AsyncService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$AsyncService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$MethodHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$MethodHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBlockingStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBlockingStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBlockingV2Stub.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBlockingV2Stub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseFutureStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseFutureStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseMethodDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseMethodDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseOuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/generated/SlaughterhouseOuterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/model/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/model/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/repositories/AnimalRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/repositories/AnimalRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/repositories/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/repositories/DBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/repositories/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/repositories/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/service/ClientMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/service/ClientMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/service/SlaughterhouseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment03/target/classes/via/pro3/service/SlaughterhouseImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/any.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/api.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/descriptor.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/duration.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/empty.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/field_mask.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/java_features.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/source_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/struct.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/timestamp.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/type.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/wrappers.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/annotations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/auth.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/backend.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/billing.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/client.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/config_change.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/consumer.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/control.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/distribution.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/documentation.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/endpoint.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/error_reason.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/field_behavior.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/field_info.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/http.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/httpbody.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/label.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/launch_stage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/logging.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/metric.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/monitored_resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/monitoring.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/policy.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/quota.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/routing.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/source_info.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/system_parameter.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/usage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/visibility.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/apps/card/v1/card.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/cloud/audit/audit_log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/cloud/extended_operations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/cloud/location/locations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/geo/type/viewport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/logging/type/http_request.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/logging/type/log_severity.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/longrunning/operations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/code.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/context/attribute_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/context/audit_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/error_details.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/status.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/shopping/type/types.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/calendar_period.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/color.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/date.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/datetime.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/dayofweek.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/decimal.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/expr.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/fraction.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/interval.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/latlng.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/localized_text.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/money.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/month.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/phone_number.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/postal_address.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/quaternion.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/timeofday.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-plugins/protoc-4.32.0-windows-x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/protoc-plugins/protoc-gen-grpc-java-1.75.0-windows-x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/slaughterhouse-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/test-classes/via/pro3/repositories/ProductRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment03/target/test-classes/via/pro3/service/SlaughterhouseImplTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PRO3_Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/ServerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/GRPCServerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/AnimalsResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductRequestOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductRequestOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponseOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/ProductsResponseOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseOuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/generated/SlaughterhouseOuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/AnimalRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/AnimalRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/repositories/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/ClientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/ClientMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/SlaughterhouseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/java/via/pro3/service/SlaughterhouseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slaughterhouse/src/main/proto/slaughterhouse.proto" beforeDir="false" afterPath="$PROJECT_DIR$/slaughterhouse/src/main/proto/slaughterhouse.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/ServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalRequest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalRequest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalRequestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalsResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalsResponse$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalsResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/AnimalsResponseOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductRequest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductRequest$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductRequestOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductsResponse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductsResponse$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductsResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/ProductsResponseOrBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$AsyncService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$MethodHandlers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBaseDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBlockingStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseBlockingV2Stub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseFileDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseFutureStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseImplBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseMethodDescriptorSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc$SlaughterhouseStub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseGrpc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/generated/SlaughterhouseOuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Part.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Tray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/AnimalRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/DBConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/service/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/service/SlaughterhouseImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/any.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/api.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/descriptor.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/duration.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/empty.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/field_mask.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/java_features.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/source_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/struct.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/timestamp.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/type.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/74b1bdd3b1c4f55aa4c02ce3accee418/google/protobuf/wrappers.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/annotations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/auth.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/backend.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/billing.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/client.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/config_change.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/consumer.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/control.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/distribution.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/documentation.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/endpoint.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/error_reason.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/field_behavior.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/field_info.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/http.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/httpbody.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/label.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/launch_stage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/logging.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/metric.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/monitored_resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/monitoring.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/policy.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/quota.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/routing.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/source_info.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/system_parameter.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/usage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/api/visibility.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/apps/card/v1/card.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/cloud/audit/audit_log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/cloud/extended_operations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/cloud/location/locations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/geo/type/viewport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/logging/type/http_request.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/logging/type/log_severity.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/longrunning/operations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/code.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/context/attribute_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/context/audit_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/error_details.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/rpc/status.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/shopping/type/types.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/calendar_period.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/color.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/date.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/datetime.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/dayofweek.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/decimal.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/expr.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/fraction.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/interval.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/latlng.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/localized_text.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/money.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/month.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/phone_number.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/postal_address.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/quaternion.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-dependencies/86ca178c6e2bfbdbdd6a5d6ececc59fc/google/type/timeofday.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-plugins/protoc-4.32.0-windows-x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/protoc-plugins/protoc-gen-grpc-java-1.75.0-windows-x86_64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/slaughterhouse-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/via/pro3/repositories/ProductRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/via/pro3/service/SlaughterhouseImplTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33sVBqWVJO3Ey10EGzzJfzdusgN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ClientMain.executor": "Run",
+    "Application.ServerMain.executor": "Run",
+    "JUnit.All in slaughterhouse.executor": "Run",
+    "JUnit.ProductRepositoryTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ApplicationRestAPI.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guiga/Desktop/0SoftwareEngineering/25_3rd_Software/PRO3/Assignment02_and_03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "spring",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="via.pro3.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guiga\Desktop\0SoftwareEngineering\25_3rd_Software\PRO3\Assignment02\slaughterhouse\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="via.pro3.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientMain">
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="via.pro3.service.ClientMain" />
+      <module name="PRO3_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="via.pro3.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GRPCServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="via.pro3.GRPCServerMain" />
+      <module name="PRO3_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="via.pro3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in slaughterhouse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PRO3_Assignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationRestAPI" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Assignment02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="via.pro3.ApplicationRestAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="via.pro3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApplicationRestAPI" />
+        <item itemvalue="Application.GRPCServerMain" />
+        <item itemvalue="Application.ClientMain" />
+        <item itemvalue="JUnit.All in slaughterhouse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eac5b280-9444-4be2-8221-54a1d9c9927b" name="Changes" comment="" />
+      <created>1760105636062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760105636062</updated>
+      <workItem from="1760105638892" duration="3322000" />
+      <workItem from="1760109255816" duration="2386000" />
+      <workItem from="1760173993940" duration="153000" />
+      <workItem from="1760951469384" duration="484000" />
+      <workItem from="1761682684420" duration="4000" />
+      <workItem from="1762007210877" duration="6992000" />
+      <workItem from="1762079445934" duration="6998000" />
+      <workItem from="1762155506665" duration="19000" />
+      <workItem from="1762155542817" duration="12000" />
+      <workItem from="1762418189378" duration="1951000" />
+      <workItem from="1762516524195" duration="13997000" />
+      <workItem from="1762544715505" duration="261000" />
+      <workItem from="1762545031839" duration="142000" />
+      <workItem from="1762761745516" duration="436000" />
+      <workItem from="1762762191072" duration="71000" />
+      <workItem from="1764358140426" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
