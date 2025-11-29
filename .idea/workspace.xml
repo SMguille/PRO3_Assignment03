@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af025cd-8139-4b0e-93ca-b1d62c6e577f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/via/pro3/repositories/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/via/pro3/repositories/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/via/pro3/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/via/pro3/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/via/pro3/repositories/AnimalRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/via/pro3/repositories/AnimalRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/via/pro3/repositories/ProductRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/via/pro3/service/SlaughterhouseImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/ApplicationRestAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/controller/AnimalRegistrationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Part.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/model/Tray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/AnimalRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/DBConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/via/pro3/repositories/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +54,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ApplicationRestAPI">
+  <component name="RunManager" selected="Spring Boot.ApplicationRestAPI">
     <configuration name="ApplicationRestAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="via.pro3.ApplicationRestAPI" />
       <module name="Assignment03" />
@@ -121,7 +109,7 @@
       <updated>1764365841570</updated>
       <workItem from="1764365842862" duration="1113000" />
       <workItem from="1764366972776" duration="12000" />
-      <workItem from="1764367023567" duration="1683000" />
+      <workItem from="1764367023567" duration="4775000" />
     </task>
     <servers />
   </component>

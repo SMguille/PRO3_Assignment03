@@ -29,8 +29,14 @@ public class AnimalRegistrationController {
         }
     }
 
+    @GetMapping
+    public List<Animal> getAllAnimals() throws SQLException {
+        return animalRepo.getAll();
+    }
+
+    // Path variable is INT, mapped to registrationNumber
     @GetMapping("/{registrationNumber}")
-    public Animal getAnimal(@PathVariable String registrationNumber) throws SQLException {
+    public Animal getAnimal(@PathVariable int registrationNumber) throws SQLException {
         return animalRepo.getByRegistrationNumber(registrationNumber);
     }
 
